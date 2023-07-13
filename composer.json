@@ -1,0 +1,8 @@
+{
+    "require": {
+        "palepurple/rate-limit": "^2.0",
+        "davedevelopment/stiphle": "^0.9.2",
+        "nikolaposa/rate-limit": "^3.0",
+        "predis/predis": "^1.1"
+    }
+}
